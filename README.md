@@ -29,7 +29,6 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
 ![WhatsApp Image 2023-10-16 at 15 32 34_bf388a8f](https://github.com/ughdeiek/PWM-Generator/assets/142580251/bdadba7f-1782-4e77-8ea0-d75612172eaa)
 
-![WhatsApp Image 2023-10-16 at 15 32 38_e32ff734](https://github.com/ughdeiek/PWM-Generator/assets/142580251/ae371798-9dd4-48fe-b1ab-01681c813972)
 
 ![WhatsApp Image 2023-10-16 at 15 32 39_12751d98](https://github.com/ughdeiek/PWM-Generator/assets/142580251/9cbfe210-ae20-4d07-b312-07d76c797aaf)
 
@@ -69,8 +68,12 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
 
 
+   
     
   9. ./a.out
+
+
+   ![WhatsApp Image 2023-10-16 at 15 32 37_46da2253](https://github.com/ughdeiek/PWM-Generator/assets/142580251/fb377a54-ce72-445c-81f1-21cc4f776043)
 
 
 
