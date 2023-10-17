@@ -53,11 +53,13 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
     ![WhatsApp Image 2023-10-16 at 15 32 36_bc6f4574](https://github.com/ughdeiek/PWM-Generator/assets/142580251/e57a00cb-a5d1-4b38-8054-43382f693d28)
 
+  
+
   7. commands are visible in the screenshot below:
 
-    ![WhatsApp Image 2023-10-16 at 15 32 37_1e74b56f](https://github.com/ughdeiek/PWM-Generator/assets/142580251/b0ed8f22-6625-486c-a9b3-4ed7288b7666)
+  ![WhatsApp Image 2023-10-16 at 15 32 37_1e74b56f](https://github.com/ughdeiek/PWM-Generator/assets/142580251/b0ed8f22-6625-486c-a9b3-4ed7288b7666)
 
-
+  
   8. netlist creation:
 
      ![WhatsApp Image 2023-10-16 at 15 32 36_17886551](https://github.com/ughdeiek/PWM-Generator/assets/142580251/e729998d-8367-4021-8002-b085106ab469)
@@ -67,12 +69,11 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
 
 
-    ![WhatsApp Image 2023-10-16 at 15 32 39_90aef33d](https://github.com/ughdeiek/PWM-Generator/assets/142580251/2d9f340c-9338-4143-9c27-7add69a5185a)
-
- 9. ./a.out
-
+    
+  9. ./a.out
 
 
- 10. gtkwave pwm.vcd
+
+  10. gtkwave pwm.vcd
 
      
