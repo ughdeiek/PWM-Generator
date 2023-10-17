@@ -74,15 +74,17 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
 
   
-  10.
-
-
-      ![WhatsApp Image 2023-10-16 at 15 32 37_46da2253](https://github.com/ughdeiek/PWM-Generator/assets/142580251/fb377a54-ce72-445c-81f1-21cc4f776043)
 
 
 
 
+  10.  ![WhatsApp Image 2023-10-16 at 15 32 37_46da2253](https://github.com/ughdeiek/PWM-Generator/assets/142580251/fb377a54-ce72-445c-81f1-21cc4f776043)
+ 
+   
 
-  12. gtkwave pwm.vcd
+
+
+
+  11. gtkwave pwm.vcd
 
      
