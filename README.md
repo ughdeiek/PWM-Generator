@@ -73,7 +73,9 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
  
 
 
+
   10.  ./a.out
+
 
 
 
