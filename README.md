@@ -106,12 +106,6 @@ INSTALLATION OF OPENLANE:
 https://openlane.readthedocs.io/en/latest/
 
 
-INTERACTIVE MODE:
-
-
-
-
-
 
 
 Generating Layout:
@@ -127,9 +121,6 @@ $ vim config.tcl
 $ cd src
 $ vim pes_pwm_gen.v
 
-The contents of config.tcl are:
-
-![Screenshot from 2023-11-03 04-25-53](https://github.com/ughdeiek/PWM-Generator/assets/142580251/bd73829d-ef3a-4a92-9549-d2c31b3e8c26)
 
 
 
