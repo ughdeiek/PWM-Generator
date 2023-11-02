@@ -20,9 +20,9 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
 1.  cd ~/sky130RTLDesignAndSynthesisWorkshop/verilog_files
 
-2.  iverilog pes_pwm_gen.v pes_pwm_gen_tb.v -o pes_pwm_gen.out
+2.  iverilog pes_pwm.v pes_pwm_tb.v -o pes_pwm.out
 
-3.  ./pes_pwm_gen.out 
+3.  ./pes_pwm.out 
 
 4.gtkwave pwm.vcd
 
@@ -43,8 +43,7 @@ SYNTHESIS AND GATE LEVEL SIMULATION:
 
  ![WhatsApp Image 2023-10-16 at 15 32 35_7a63b1a9](https://github.com/ughdeiek/PWM-Generator/assets/142580251/2b68ced2-97af-4f71-aca5-dab73ea1dd36)
 
- 6. synth -top pes_pwm_gen
-
+ 6. synth -top pes_pwm
     ![WhatsApp Image 2023-10-16 at 15 32 35_d97daaac](https://github.com/ughdeiek/PWM-Generator/assets/142580251/3c86834d-ac5a-4dbc-8d62-899cd668de43)
  
     ![WhatsApp Image 2023-10-16 at 15 32 36_04cd1aca](https://github.com/ughdeiek/PWM-Generator/assets/142580251/1d65b5fd-c749-487e-ab3c-aa4a4c5a81c9)
